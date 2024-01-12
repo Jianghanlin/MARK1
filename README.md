@@ -1,2 +1,2 @@
-# MARK0
-MARK0，minisystem based on GD32F303VGT6
+# MARK1
+MARK1，minisystem based on STM32F427ZGT6
